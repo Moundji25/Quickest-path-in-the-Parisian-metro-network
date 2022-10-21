@@ -1,7 +1,7 @@
 # ProjetMetroGUI
 
-Cette application permet de déterminer le plus court itinéraire pour aller d'une station 
-à une autre dans le métro parisien.
+Application Java qui permet de déterminer le plus court itinéraire pour aller d'une station 
+à une autre dans le métro parisien, l'application se base sur l'algorithme de djikstra.
 
 ## Utilisation
 - Pour compiler et exécuter l'application
